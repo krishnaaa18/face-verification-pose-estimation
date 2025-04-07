@@ -13,5 +13,3 @@ This project performs **face verification** using DeepFace and **head pose estim
 
 ---
 
-## 📁 Directory Structure
-
